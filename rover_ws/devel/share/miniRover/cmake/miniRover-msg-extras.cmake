@@ -1,0 +1,1 @@
+/home/robotics/git/rover_ws/devel/.private/miniRover/share/miniRover/cmake/miniRover-msg-extras.cmake

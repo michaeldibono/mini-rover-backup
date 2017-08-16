@@ -1,0 +1,12 @@
+[  0%] [  0%] Built target std_msgs_generate_messages_cpp
+Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rover_driver
+[0m[ 20%] [32mBuilding CXX object CMakeFiles/rover_driver.dir/src/rover_driver.cpp.o
+[0m[ 20%] Built target _miniRover_generate_messages_check_deps_imInfo
+[ 40%] Built target miniRover_generate_messages_cpp
+[ 60%] Built target miniRover_generate_messages_lisp
+[100%] Built target miniRover_generate_messages_py
+[100%] Built target miniRover_generate_messages
+[31m[1mLinking CXX executable /home/robotics/git/rover_ws/devel/.private/miniRover/lib/miniRover/rover_driver
+[0m[100%] Built target rover_driver

@@ -1,0 +1,6 @@
+devel_space: /home/robotics/git/rover_ws/devel
+install: false
+install_space: /home/robotics/git/rover_ws/install
+profile: default
+source_space: /home/robotics/git/rover_ws/src
+workspace: /home/robotics/git/rover_ws

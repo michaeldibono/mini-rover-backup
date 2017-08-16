@@ -1,0 +1,1 @@
+/home/robotics/git/rover_ws/devel/.private/serial/share/serial/cmake/serialConfig-version.cmake

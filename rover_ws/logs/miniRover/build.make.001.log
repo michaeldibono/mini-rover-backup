@@ -1,0 +1,61 @@
+[  0%] [  0%] Built target std_msgs_generate_messages_cpp
+Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rover_driver
+[0m[ 20%] [32mBuilding CXX object CMakeFiles/rover_driver.dir/src/rover_driver.cpp.o
+[0m[ 20%] Built target _miniRover_generate_messages_check_deps_imInfo
+[ 60%] [ 80%] Built target miniRover_generate_messages_lisp
+Built target miniRover_generate_messages_py
+[100%] Built target miniRover_generate_messages_cpp
+[100%] Built target miniRover_generate_messages
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp: In member function ‘void RoverDriver::joyCallback(const ConstPtr&)’:
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:119:3: error: expected ‘;’ before ‘string’
+   string tmp_str = "O|";
+   ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:126:5: error: ‘tmp_str’ was not declared in this scope
+     tmp_str.append(num2cmdstr(FB_val));
+     ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:138:7: error: ‘tmp_str’ was not declared in this scope
+       tmp_str.append(num2cmdstr(0));
+       ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:160:9: error: ‘tmp_str’ was not declared in this scope
+         tmp_str.append(num2cmdstr(0.25));
+         ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:169:9: error: ‘tmp_str’ was not declared in this scope
+         tmp_str.append(num2cmdstr(-0.25));
+         ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:185:7: error: ‘tmp_str’ was not declared in this scope
+     { tmp_str.append(num2cmdstr(-1));}
+       ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:187:7: error: ‘tmp_str’ was not declared in this scope
+     { tmp_str.append(num2cmdstr(1));}   
+       ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:190:5: error: ‘tmp_str’ was not declared in this scope
+     tmp_str.append(num2cmdstr(0));
+     ^
+In file included from /opt/ros/indigo/include/ros/ros.h:40:0,
+                 from /home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:1:
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:193:30: error: ‘tmp_str’ was not declared in this scope
+   ROS_INFO("ada_crtl_str:%s",tmp_str.c_str());  
+                              ^
+/opt/ros/indigo/include/ros/console.h:343:165: note: in definition of macro ‘ROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER’
+     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, __VA_ARGS__)
+                                                                                                                                                                     ^
+/opt/ros/indigo/include/ros/console.h:376:7: note: in expansion of macro ‘ROSCONSOLE_PRINT_AT_LOCATION’
+       ROSCONSOLE_PRINT_AT_LOCATION(__VA_ARGS__); \
+       ^
+/opt/ros/indigo/include/ros/console.h:558:35: note: in expansion of macro ‘ROS_LOG_COND’
+ #define ROS_LOG(level, name, ...) ROS_LOG_COND(true, level, name, __VA_ARGS__)
+                                   ^
+/opt/ros/indigo/include/rosconsole/macros_generated.h:110:23: note: in expansion of macro ‘ROS_LOG’
+ #define ROS_INFO(...) ROS_LOG(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+                       ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:193:3: note: in expansion of macro ‘ROS_INFO’
+   ROS_INFO("ada_crtl_str:%s",tmp_str.c_str());  
+   ^
+/home/robotics/git/rover_ws/src/miniRover/src/rover_driver.cpp:197:33: error: ‘tmp_str’ was not declared in this scope
+       int n_byte = s_port.write(tmp_str.c_str());
+                                 ^
+make[2]: *** [CMakeFiles/rover_driver.dir/src/rover_driver.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rover_driver.dir/all] Error 2
+make: *** [all] Error 2

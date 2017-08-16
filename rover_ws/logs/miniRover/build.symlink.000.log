@@ -1,0 +1,14 @@
+Symlinking /home/robotics/git/rover_ws/devel/share/common-lisp/ros/miniRover/msg/_package.lisp
+Symlinking /home/robotics/git/rover_ws/devel/share/common-lisp/ros/miniRover/msg/miniRover-msg.asd
+Symlinking /home/robotics/git/rover_ws/devel/share/common-lisp/ros/miniRover/msg/_package_imInfo.lisp
+Symlinking /home/robotics/git/rover_ws/devel/share/common-lisp/ros/miniRover/msg/imInfo.lisp
+Symlinking /home/robotics/git/rover_ws/devel/share/miniRover/cmake/miniRoverConfig.cmake
+Symlinking /home/robotics/git/rover_ws/devel/share/miniRover/cmake/miniRoverConfig-version.cmake
+Symlinking /home/robotics/git/rover_ws/devel/share/miniRover/cmake/miniRover-msg-extras.cmake
+Symlinking /home/robotics/git/rover_ws/devel/share/miniRover/cmake/miniRover-msg-paths.cmake
+Symlinking /home/robotics/git/rover_ws/devel/include/miniRover/imInfo.h
+Symlinking /home/robotics/git/rover_ws/devel/lib/python2.7/dist-packages/miniRover/__init__.py
+Symlinking /home/robotics/git/rover_ws/devel/lib/python2.7/dist-packages/miniRover/msg/__init__.py
+Symlinking /home/robotics/git/rover_ws/devel/lib/python2.7/dist-packages/miniRover/msg/_imInfo.py
+Symlinking /home/robotics/git/rover_ws/devel/lib/miniRover/rover_driver
+Symlinking /home/robotics/git/rover_ws/devel/lib/pkgconfig/miniRover.pc

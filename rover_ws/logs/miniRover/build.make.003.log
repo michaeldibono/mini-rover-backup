@@ -1,0 +1,9 @@
+[  0%] [  0%] [  0%] Built target std_msgs_generate_messages_cpp
+Built target std_msgs_generate_messages_py
+Built target std_msgs_generate_messages_lisp
+[ 20%] Built target rover_driver
+[ 20%] Built target _miniRover_generate_messages_check_deps_imInfo
+[ 40%] Built target miniRover_generate_messages_lisp
+[100%] [100%] Built target miniRover_generate_messages_py
+Built target miniRover_generate_messages_cpp
+[100%] Built target miniRover_generate_messages

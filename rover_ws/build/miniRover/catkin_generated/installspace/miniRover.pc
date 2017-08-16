@@ -1,0 +1,8 @@
+prefix=/home/robotics/git/rover_ws/install
+
+Name: miniRover
+Description: Description of miniRover
+Version: 0.0.0
+Cflags: -I/home/robotics/git/rover_ws/install/include
+Libs: -L/home/robotics/git/rover_ws/install/lib 
+Requires: message_runtime

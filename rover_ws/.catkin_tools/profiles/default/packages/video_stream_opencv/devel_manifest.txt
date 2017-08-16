@@ -1,0 +1,5 @@
+video_stream_opencv
+/home/robotics/git/rover_ws/devel/.private/video_stream_opencv/share/video_stream_opencv/cmake/video_stream_opencvConfig-version.cmake /home/robotics/git/rover_ws/devel/share/video_stream_opencv/cmake/video_stream_opencvConfig-version.cmake
+/home/robotics/git/rover_ws/devel/.private/video_stream_opencv/share/video_stream_opencv/cmake/video_stream_opencvConfig.cmake /home/robotics/git/rover_ws/devel/share/video_stream_opencv/cmake/video_stream_opencvConfig.cmake
+/home/robotics/git/rover_ws/devel/.private/video_stream_opencv/lib/video_stream_opencv/video_stream /home/robotics/git/rover_ws/devel/lib/video_stream_opencv/video_stream
+/home/robotics/git/rover_ws/devel/.private/video_stream_opencv/lib/pkgconfig/video_stream_opencv.pc /home/robotics/git/rover_ws/devel/lib/pkgconfig/video_stream_opencv.pc

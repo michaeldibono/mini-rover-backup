@@ -1,0 +1,24 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp
+[0m[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _miniRover_generate_messages_check_deps_imInfo
+[0m[0m[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py
+[0m[  0%] [35m[1mScanning dependencies of target rover_driver
+Built target std_msgs_generate_messages_py
+[0m[ 20%] [32mBuilding CXX object CMakeFiles/rover_driver.dir/src/rover_driver.cpp.o
+[0m[ 20%] Built target _miniRover_generate_messages_check_deps_imInfo
+[35m[1mScanning dependencies of target miniRover_generate_messages_lisp
+[35m[1mScanning dependencies of target miniRover_generate_messages_cpp
+[0m[0m[ 60%] [ 60%] [34m[1mGenerating Lisp code from miniRover/imInfo.msg
+[34m[1mGenerating C++ code from miniRover/imInfo.msg
+[0m[0m[ 60%] Built target miniRover_generate_messages_lisp
+[35m[1mScanning dependencies of target miniRover_generate_messages_py
+[0m[ 80%] [34m[1mGenerating Python from MSG miniRover/imInfo
+[0m[100%] [34m[1mGenerating Python msg __init__.py for miniRover
+[0m[100%] Built target miniRover_generate_messages_py
+[100%] Built target miniRover_generate_messages_cpp
+[35m[1mScanning dependencies of target miniRover_generate_messages
+[0m[100%] Built target miniRover_generate_messages
+[31m[1mLinking CXX executable /home/robotics/git/rover_ws/devel/.private/miniRover/lib/miniRover/rover_driver
+[0m[100%] Built target rover_driver

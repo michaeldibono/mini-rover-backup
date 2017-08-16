@@ -1,0 +1,1 @@
+/home/robotics/git/rover_ws/devel/.private/video_stream_opencv/share/video_stream_opencv/cmake/video_stream_opencvConfig-version.cmake

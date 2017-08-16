@@ -1,0 +1,5 @@
+Symlinking /home/robotics/git/rover_ws/devel/share/serial/cmake/serialConfig-version.cmake
+Symlinking /home/robotics/git/rover_ws/devel/share/serial/cmake/serialConfig.cmake
+Symlinking /home/robotics/git/rover_ws/devel/lib/libserial.so
+Symlinking /home/robotics/git/rover_ws/devel/lib/serial/serial_example
+Symlinking /home/robotics/git/rover_ws/devel/lib/pkgconfig/serial.pc

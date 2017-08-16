@@ -1,0 +1,6 @@
+serial
+/home/robotics/git/rover_ws/devel/.private/serial/share/serial/cmake/serialConfig-version.cmake /home/robotics/git/rover_ws/devel/share/serial/cmake/serialConfig-version.cmake
+/home/robotics/git/rover_ws/devel/.private/serial/share/serial/cmake/serialConfig.cmake /home/robotics/git/rover_ws/devel/share/serial/cmake/serialConfig.cmake
+/home/robotics/git/rover_ws/devel/.private/serial/lib/libserial.so /home/robotics/git/rover_ws/devel/lib/libserial.so
+/home/robotics/git/rover_ws/devel/.private/serial/lib/serial/serial_example /home/robotics/git/rover_ws/devel/lib/serial/serial_example
+/home/robotics/git/rover_ws/devel/.private/serial/lib/pkgconfig/serial.pc /home/robotics/git/rover_ws/devel/lib/pkgconfig/serial.pc

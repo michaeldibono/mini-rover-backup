@@ -1,0 +1,1 @@
+/home/robotics/git/rover_ws/devel/.private/miniRover/share/common-lisp/ros/miniRover/msg/_package.lisp

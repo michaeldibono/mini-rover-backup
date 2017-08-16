@@ -1,0 +1,1 @@
+/home/robotics/git/rover_ws/devel/.private/miniRover/lib/python2.7/dist-packages/miniRover/msg/_imInfo.py

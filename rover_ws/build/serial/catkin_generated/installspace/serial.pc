@@ -1,0 +1,8 @@
+prefix=/home/robotics/git/rover_ws/install
+
+Name: serial
+Description: Description of serial
+Version: 1.2.1
+Cflags: -I/home/robotics/git/rover_ws/install/include
+Libs: -L/home/robotics/git/rover_ws/install/lib -lserial
+Requires: 
